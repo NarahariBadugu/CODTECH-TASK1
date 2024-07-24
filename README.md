@@ -32,14 +32,6 @@ Verification: Verify the functionality of each designed circuit by analyzing wav
 Debugging: Debug any issues encountered during simulation to ensure correct circuit operation.
 7. Conclusion
 Through this project, you will gain hands-on experience in designing and simulating basic digital logic circuits using Verilog. It will enhance your understanding of digital logic concepts and prepare you for more complex VLSI design tasks involving FPGA or ASIC implementations.
-OUTPUT:
-6. Simulation and Verification
-Simulation Environment: Use a Verilog simulator (e.g., ModelSim, QuestaSim) to compile and simulate the Verilog designs.
-Verification: Verify the functionality of each designed circuit by analyzing waveforms and checking outputs against expected results.
-Debugging: Debug any issues encountered during simulation to ensure correct circuit operation.
-7. Conclusion
-Through this project, you will gain hands-on experience in designing and simulating basic digital logic circuits using Verilog. It will enhance your understanding of digital logic
-concepts and prepare you for more complex VLSI design tasks involving FPGA or ASIC implementations.
 
 OUTPUT:
 ![CODTECH TASK1](https://github.com/user-attachments/assets/67dd0ee9-a17a-47f2-9dd5-ab8586bd162f)
